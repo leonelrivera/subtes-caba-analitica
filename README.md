@@ -37,15 +37,19 @@ Si deseas clonar el proyecto y ejecutar el tablero en tu máquina:
 ### 1. Clonar el repositorio
 
 git clone [https://github.com/leonelrivera/subtes-caba-analitica.git](https://github.com/leonelrivera/subtes-caba-analitica.git)
+
 cd subte-caba-analitica
 
 ### 2. Crear y activar un entorno virtual (recomendado)
+
 python -m venv venv
 
 * En Windows:
+
 venv\Scripts\activate
 
 * En Linux / macOS:
+
 source venv/bin/activate
 
 ### 3. Instalar las dependencias
