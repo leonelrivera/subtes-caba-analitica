@@ -74,9 +74,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 Una vez iniciado el servidor, la aplicación se abrirá de manera automática en tu navegador web. En caso de que no lo haga, podés ingresar manualmente a:
+URL Local: 
 ```bash
-URL Local: http://localhost:8501
+http://localhost:8501
 ```
+URL de Red: 
 ```bash
-URL de Red: http://127.0.0.1:8501
+http://127.0.0.1:8501
 ```
