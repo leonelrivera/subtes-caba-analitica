@@ -36,7 +36,7 @@ Si deseas clonar el proyecto y ejecutar el tablero en tu máquina:
 
 ### 1. Clonar el repositorio
 ```bash
-git clone [https://github.com/leonelrivera/subtes-caba-analitica.git](https://github.com/leonelrivera/subtes-caba-analitica.git)
+git clone https://github.com/leonelrivera/subtes-caba-analitica.git
 ```
 ```bash
 cd subte-caba-analitica
