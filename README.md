@@ -30,6 +30,14 @@ El tablero interactivo se encuentra publicado y accesible públicamente sin cost
 
 ---
 
+## 📖 Manual de Usuario y Guía Metodológica
+
+Para conocer en detalle el funcionamiento de cada filtro, el significado de las tarjetas de indicadores (KPIs), la interpretación de los gráficos temporales/espaciales y el modelado econométrico de elasticidad, consulta la guía detallada con capturas de pantalla:
+
+👉 **[Ver Manual de Usuario del Tablero](docs/MANUAL_USUARIO.md)**
+
+---
+
 ## 💻 Instrucciones para Ejecución Local
 
 Si deseas clonar el proyecto y ejecutar el tablero en tu máquina:
@@ -64,4 +72,11 @@ pip install -r requirements.txt
 ### 4. Iniciar el Tablero Interactivo
 ```bash
 streamlit run app.py
+```
+Una vez iniciado el servidor, la aplicación se abrirá de manera automática en tu navegador web. En caso de que no lo haga, podés ingresar manualmente a:
+```bash
+URL Local: http://localhost:8501
+```
+```bash
+URL de Red: http://127.0.0.1:8501
 ```

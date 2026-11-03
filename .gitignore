@@ -1,5 +1,6 @@
 # Excluir todo por defecto
 /*
+
 # Excepciones: únicamente permitir los archivos del proyecto
 !/app.py
 !/EDA_ETL_Subtes.ipynb
@@ -8,4 +9,6 @@
 !/viajes_anual.csv
 !/requirements.txt
 !/README.md
+!/docs/
+!/docs/**
 !/.gitignore
