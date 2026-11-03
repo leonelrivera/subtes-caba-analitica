@@ -1,0 +1,11 @@
+# Excluir todo por defecto
+/*
+# Excepciones: únicamente permitir los archivos del proyecto
+!/app.py
+!/EDA_ETL_Subtes.ipynb
+!/subte_procesado.csv
+!/registro-historico-del-precio-del-boleto.csv
+!/viajes_anual.csv
+!/requirements.txt
+!/README.md
+!/.gitignore
