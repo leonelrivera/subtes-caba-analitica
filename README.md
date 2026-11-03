@@ -26,7 +26,7 @@ Para ejecutar este proyecto en tu computadora local necesitas tener instalado:
 
 ## 🚀 Despliegue en la Nube
 El tablero interactivo se encuentra publicado y accesible públicamente sin costo en:  
-👉 **[Acceder al Tablero en Streamlit Cloud](https://TU_USUARIO.streamlit.app)** *(reemplazar con tu enlace final)*
+👉 **[Acceder al Tablero en Streamlit Cloud](https://subtes-caba-tablero-g31.streamlit.app)**
 
 ---
 
@@ -35,25 +35,29 @@ El tablero interactivo se encuentra publicado y accesible públicamente sin cost
 Si deseas clonar el proyecto y ejecutar el tablero en tu máquina:
 
 ### 1. Clonar el repositorio
-
+```bash
 git clone [https://github.com/leonelrivera/subtes-caba-analitica.git](https://github.com/leonelrivera/subtes-caba-analitica.git)
-
+```
+```bash
 cd subte-caba-analitica
-
+```
 ### 2. Crear y activar un entorno virtual (recomendado)
-
+```bash
 python -m venv venv
-
+```
 * En Windows:
-
+```bash
 venv\Scripts\activate
-
+```
 * En Linux / macOS:
-
+```bash
 source venv/bin/activate
-
+```
 ### 3. Instalar las dependencias
+```bash
 pip install -r requirements.txt
-
+```
 ### 4. Iniciar el Tablero Interactivo
+```bash
 streamlit run app.py
+```
